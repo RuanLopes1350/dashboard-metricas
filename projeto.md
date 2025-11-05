@@ -216,21 +216,21 @@ RNF-007 |Manutenibilidade|• O código deve ser bem documentado e estruturado p
 
 # Prototipagem
 
-![Login](https://gitlab.fslab.dev/f-brica-de-software-i-2024-2/dashboard-de-metricas-do-gitlab/-/raw/master/images/Figma/Login.png)
-![Dashboard](https://gitlab.fslab.dev/f-brica-de-software-i-2024-2/dashboard-de-metricas-do-gitlab/-/raw/master/images/Figma/Dashboard.png)
-![Projetos](https://gitlab.fslab.dev/f-brica-de-software-i-2024-2/dashboard-de-metricas-do-gitlab/-/raw/master/images/Figma/Projetos.png)
-![Projetos Expandido](https://gitlab.fslab.dev/f-brica-de-software-i-2024-2/dashboard-de-metricas-do-gitlab/-/raw/master/images/Figma/Projetos-1.png)
-![Participantes](https://gitlab.fslab.dev/f-brica-de-software-i-2024-2/dashboard-de-metricas-do-gitlab/-/raw/master/images/Figma/Participantes.png)
-![Commits](https://gitlab.fslab.dev/f-brica-de-software-i-2024-2/dashboard-de-metricas-do-gitlab/-/raw/master/images/Figma/Commits.png)
-![Issues](https://gitlab.fslab.dev/f-brica-de-software-i-2024-2/dashboard-de-metricas-do-gitlab/-/raw/master/images/Figma/Issues.png)
-![Merge Requests](https://gitlab.fslab.dev/f-brica-de-software-i-2024-2/dashboard-de-metricas-do-gitlab/-/raw/master/images/Figma/Marge_Requests.png)
-![Perfil](https://gitlab.fslab.dev/f-brica-de-software-i-2024-2/dashboard-de-metricas-do-gitlab/-/raw/master/images/Figma/Perfil.png)
-![Configurações](https://gitlab.fslab.dev/f-brica-de-software-i-2024-2/dashboard-de-metricas-do-gitlab/-/raw/master/images/Figma/Configura%C3%A7%C3%B5es.png)
+![Login](/images/Figma/Login.png)
+![Dashboard](/images/Figma/Dashboard.png)
+![Projetos](/images/Figma/Projetos.png)
+![Projetos Expandido](/images/Figma/Projetos-1.png)
+![Participantes](/images/Figma/Participantes.png)
+![Commits](/images/Figma/Commits.png)
+![Issues](/images/Figma/Issues.png)
+![Merge Requests](/images/Figma/Marge_Requests.png)
+![Perfil](/images/Figma/Perfil.png)
+![Configurações](/images/Figma/Configura%C3%A7%C3%B5es.png)
 
 
 # Diagrama de Casos de Uso
 
-![Diagrama Casos de Uso](https://gitlab.fslab.dev/f-brica-de-software-i-2024-2/dashboard-de-metricas-do-gitlab/-/raw/master/images/Dashboard_-_Diagrama_de_Caso_de_Uso__ofc_.jpg)
+![Diagrama Casos de Uso](/images/Dashboard_-_Diagrama_de_Caso_de_Uso__ofc_.jpg)
 
 ## Descrição / Especificação dos Casos de Uso
 
@@ -381,17 +381,17 @@ RNF-007 |Manutenibilidade|• O código deve ser bem documentado e estruturado p
 
 # Diagrama de Classes
 
-![Diagrama de Classes](https://gitlab.fslab.dev/f-brica-de-software-i-2024-2/dashboard-de-metricas-do-gitlab/-/raw/master/images/Dashboard_-_Diagrama_de_Classes__ofc_.jpg)
+![Diagrama de Classes](/images/Dashboard_-_Diagrama_de_Classes__ofc_.jpg)
 
 # Diagrama de Sequências
 
-![Diagrama de Sequencia Login](https://gitlab.fslab.dev/f-brica-de-software-i-2024-2/dashboard-de-metricas-do-gitlab/-/raw/master/images/Dashboard_-_Diagrama_de_Sequencia__Login_.png)
+![Diagrama de Sequencia Login](/images/Dashboard_-_Diagrama_de_Sequencia__Login_.png)
 
-![Diagrama de Sequencia](https://gitlab.fslab.dev/f-brica-de-software-i-2024-2/dashboard-de-metricas-do-gitlab/-/raw/master/images/Dashboard_sequencia.png)
+![Diagrama de Sequencia](/images/Dashboard_-_Diagrama_de_Sequencia__Login_.png)
 
 # Diagrama de Atividades
 
-![Diagrama de Atividades](https://gitlab.fslab.dev/f-brica-de-software-i-2024-2/dashboard-de-metricas-do-gitlab/-/raw/master/images/Dashboard_-_Diagrama_de_Atividades.png)
+![Diagrama de Atividades](/images/Dashboard_-_Diagrama_de_Atividades.png)
 
 # REFERÊNCIAS
 
